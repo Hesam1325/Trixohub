@@ -1,0 +1,1 @@
+loadstring(Game:HttpGet("https://raw.githubusercontent.com/Hesam1325/script-hub/d94751dec28864022aa2ed82ac257ee8485f51da/Arsenal"))()
